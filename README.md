@@ -1,4 +1,4 @@
-# ✨ Emerging Technologies Assignment - Natan Trosman - G00347770@atu.ie ✨
+## ✨ Emerging Technologies Assignment - Natan Trosman - G00347770@atu.ie ✨
 
 ## Objective
 
