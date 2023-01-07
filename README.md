@@ -10,7 +10,8 @@ JupyterLite and the topics covered are as follows:
 * Fourier Transform
 * Quantum Computing
 
-## Details
+## Setting up Github Pages
+https://docs.github.com/en/pages/quickstart
 
 ## JupyterLite Notebook
 https://natantrosmangmit.github.io/Emerging_Technoligies/lab/index.html
